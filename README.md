@@ -6,6 +6,11 @@ This module provides an easy way to allow spectating on Roblox. All the logic, i
 ## Notes
 This module supports control from gamepad controllers, mobile devices and laptops/desktops. Gamepad controllers are handled through the use of the L2 & R2 buttons, while mobile/desktop/laptop will be given an arrow interface which can be clicked to cycle through players.
 
+## Downloading
+The easiest way to get the module is from the model on [Roblox](https://www.roblox.com/library/2014842090/Spectate-Module).
+
+This can be inserted directly into Studio to use in games.
+
 ## Usage
 ### Requirements
 The module must be run locally from a LocalScript.
